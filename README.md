@@ -103,6 +103,3 @@ These are the answers I found based on my analysis:
 
 #### Limitations
 - There are certain movies with `0` value for both `budget_adj` and `revenue_adj` which I left as is which might alter my statistics.
-
-## License
-Licensed under [MIT License](https://github.com/ManideepTelukuntla/InvestigateTMDBMovieData/blob/master/LICENSE)
